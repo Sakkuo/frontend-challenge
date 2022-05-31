@@ -1,0 +1,23 @@
+.catImage {
+    width: 225px;
+    height: 225px;
+    box-sizing: border-box;
+}
+
+.image {
+    padding: 10px 10px;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+
+.image:hover {
+    box-shadow: 0px 0px 15px black;
+    transition: all 0.6s;
+}
+
+.image__hover {
+    position: absolute;
+    margin-top: 175px;
+    margin-left: 175px;
+}

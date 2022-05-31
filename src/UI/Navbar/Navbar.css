@@ -1,0 +1,34 @@
+.Navbar {
+    padding: 0 !important;
+    background-color: #2196F3 !important;
+}
+
+
+
+.Navbar__link.active {
+    background-color: #1E88E5;
+    color: white;
+
+}
+
+.Navbar__link:hover {
+    color: white;
+}
+
+.Navbar__link {
+    padding: 20px 40px !important;
+    color: #FFFFFFB2;
+    text-decoration: none;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}
+
+.navbar-toggler {
+    border: none !important;
+}
+
+.container {
+    padding: 0 !important;
+}
